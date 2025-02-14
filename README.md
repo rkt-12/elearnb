@@ -1,1 +1,1 @@
-# e-learn-backend-2024
+elearn - a platform for students and teachers to learn and teach their skills 
